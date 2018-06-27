@@ -1,0 +1,80 @@
+Info: DeliveryProcess:Findies process: 375 mini seconds publishing element
+Info: DeliveryProcess:Findies process: 468 mini seconds publishing process specific layout data
+Info: Phase:Design thinking: 265 mini seconds publishing element
+Info: Activity:Imersão: 141 mini seconds publishing element
+Info: Task:entendimento_do_problema: 578 mini seconds publishing element
+Info: TaskDescriptor:entendimento_do_problema: 141 mini seconds publishing element
+Info: : 2093 mini-second(s) publishing element Role:equipe[FindiesProcess\roles\equipe_76FF2B12.html]
+Info: Role:equipe: 2093 mini seconds publishing element
+Info: RoleDescriptor:equipe: 219 mini seconds publishing element
+Info: Role:usuario: 109 mini seconds publishing element
+Info: RoleDescriptor:usuario: 31 mini seconds publishing element
+Info: Task:questionar: 16 mini seconds publishing element
+Info: TaskDescriptor:questionar: 31 mini seconds publishing element
+Info: Task:entender_os_usuarios_: 285 mini seconds publishing element
+Info: TaskDescriptor:entender_os_usuarios_: 37 mini seconds publishing element
+Info: Activity:New Activity: 225 mini seconds publishing element
+Info: Task:idealizacao_do_projeto_: 16 mini seconds publishing element
+Info: TaskDescriptor:idealizacao_do_projeto_: 31 mini seconds publishing element
+Info: RoleDescriptor:equipe: 63 mini seconds publishing element
+Info: Activity:Prototipação: 124 mini seconds publishing element
+Info: Task:prototipacao: 16 mini seconds publishing element
+Info: TaskDescriptor:prototipacao: 47 mini seconds publishing element
+Info: Role:front-end: 94 mini seconds publishing element
+Info: RoleDescriptor:front-end: 31 mini seconds publishing element
+Info: Phase:Euristica de Nielsen: 202 mini seconds publishing element
+Info: Activity:Euristicas: 267 mini seconds publishing element
+Info: Task:visibilidadade_de_estado_atual_do_sistema: 16 mini seconds publishing element
+Info: TaskDescriptor:visibilidadade_de_estado_atual_do_sistema: 63 mini seconds publishing element
+Info: RoleDescriptor:equipe: 47 mini seconds publishing element
+Info: RoleDescriptor:usuario: 31 mini seconds publishing element
+Info: Task:correspondencia_do_sistema_com_o_mundo_real: 16 mini seconds publishing element
+Info: TaskDescriptor:correspondencia_do_sistema_com_o_mundo_real: 31 mini seconds publishing element
+Info: RoleDescriptor:front-end: 47 mini seconds publishing element
+Info: Task:liberdade_do_usuario: 16 mini seconds publishing element
+Info: TaskDescriptor:liberdade_do_usuario: 140 mini seconds publishing element
+Info: Role:back-end: 47 mini seconds publishing element
+Info: RoleDescriptor:back-end: 31 mini seconds publishing element
+Info: Task:consistencia_de_padroes: 16 mini seconds publishing element
+Info: TaskDescriptor:consistencia_de_padroes: 31 mini seconds publishing element
+Info: Task:prevencao_de_erros: 16 mini seconds publishing element
+Info: TaskDescriptor:prevencao_de_erros: 47 mini seconds publishing element
+Info: Task:reconhecimento: 15 mini seconds publishing element
+Info: TaskDescriptor:reconhecimento: 47 mini seconds publishing element
+Info: Task:flexibilidade_e_eficiencia_no_uso: 31 mini seconds publishing element
+Info: TaskDescriptor:flexibilidade_e_eficiencia_no_uso: 41 mini seconds publishing element
+Info: Task:estetica_e_design_minimalista: 16 mini seconds publishing element
+Info: TaskDescriptor:estetica_e_design_minimalista: 31 mini seconds publishing element
+Info: Task:reconhecimento_diagnostico_e_recuperacao_de_erros: 16 mini seconds publishing element
+Info: TaskDescriptor:reconhecimento_diagnostico_e_recuperacao_de_erros: 31 mini seconds publishing element
+Info: Task:ajuda_e_documentacao: 16 mini seconds publishing element
+Info: TaskDescriptor:ajuda_e_documentacao: 36 mini seconds publishing element
+Info: Phase:MEP: 235 mini seconds publishing element
+Info: Activity:Levantamento de requisitos: 158 mini seconds publishing element
+Info: Task:analise_do_sistema: 16 mini seconds publishing element
+Info: TaskDescriptor:analise_do_sistema: 31 mini seconds publishing element
+Info: RoleDescriptor:equipe: 31 mini seconds publishing element
+Info: Task:elaboracao_de_diagramas: 16 mini seconds publishing element
+Info: TaskDescriptor:elaboracao_de_diagramas: 31 mini seconds publishing element
+Info: Task:estabelecimento_de_prazos: 16 mini seconds publishing element
+Info: TaskDescriptor:estabelecimento_de_prazos: 31 mini seconds publishing element
+Info: Activity:Implementação: 203 mini seconds publishing element
+Info: Task:implementar_a_interface: 16 mini seconds publishing element
+Info: TaskDescriptor:implementar_a_interface: 31 mini seconds publishing element
+Info: RoleDescriptor:front-end: 38 mini seconds publishing element
+Info: Task:implementar_as_funcionalidades_da_interface: 9 mini seconds publishing element
+Info: TaskDescriptor:implementar_as_funcionalidades_da_interface: 31 mini seconds publishing element
+Info: RoleDescriptor:back-end: 31 mini seconds publishing element
+Info: Activity:Implantação: 138 mini seconds publishing element
+Info: Task:ajustes: 15 mini seconds publishing element
+Info: TaskDescriptor:ajustes: 32 mini seconds publishing element
+Info: RoleDescriptor:back-end: 31 mini seconds publishing element
+Info: RoleDescriptor:front-end: 31 mini seconds publishing element
+Info: RoleDescriptor:usuario: 92 mini seconds publishing element
+Info: Activity:Comunicação com o usuário: 125 mini seconds publishing element
+Info: Task:entender_o_usuario: 15 mini seconds publishing element
+Info: TaskDescriptor:entender_o_usuario: 78 mini seconds publishing element
+Info: RoleDescriptor:equipe: 32 mini seconds publishing element
+Info: RoleDescriptor:usuario: 31 mini seconds publishing element
+Info: CustomCategory:findies_process: 32 mini seconds publishing element
+Info: : Publishing time: 0 minutes 9 seconds
